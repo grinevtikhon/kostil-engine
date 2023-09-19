@@ -1,3 +1,0 @@
-/home/tikhon/Documents/kostil-engine/build/CMakeFiles/kostil-engine.dir
-/home/tikhon/Documents/kostil-engine/build/CMakeFiles/edit_cache.dir
-/home/tikhon/Documents/kostil-engine/build/CMakeFiles/rebuild_cache.dir
